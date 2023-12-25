@@ -1,5 +1,6 @@
 #include <SFML/Graphics.hpp>
 // change
+//other changes
 int main()
 {
     sf::RenderWindow window(sf::VideoMode(800, 600), "My window", sf::Style::Default);
